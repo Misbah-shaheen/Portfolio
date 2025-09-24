@@ -51,9 +51,7 @@ portfolio/
 ---
 
 ## Live Demo
-[My Portfolio on GitHub Pages](https://username.github.io/portfolio/)  
-*(Replace `username` with your GitHub username once deployed)*
-
+[My Portfolio on GitHub Pages](https://misbah-shaheen.github.io/Portfolio/)  
 ---
 
 ## Author
