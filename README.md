@@ -51,7 +51,7 @@ portfolio/
 ---
 
 ## Live Demo
-###[My Portfolio on GitHub Pages](https://misbah-shaheen.github.io/Portfolio/)  
+- [My Portfolio on GitHub Pages](https://misbah-shaheen.github.io/Portfolio/)  
 ---
 
 ## Author
