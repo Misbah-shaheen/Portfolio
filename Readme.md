@@ -22,7 +22,7 @@ portfolio/
 │   └── image4.jfif
 └── README.md         # Project description
 
-```plaintext
+```
 ---
 
 ## Features
@@ -42,7 +42,7 @@ portfolio/
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - HTML5
 - CSS3
 - Git & GitHub
