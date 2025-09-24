@@ -6,20 +6,21 @@ It showcases my personal details, hobbies, skills, image gallery, and contact in
 ---
 
 ## Project Structure
+```plaintext
 portfolio/
-├── index.html # Home page
-├── hobbies.html # Hobbies page
-├── skills.html # Skills page
-├── gallery.html # Gallery page
-├── contact.html # Contact page
+├── index.html        # Home page
+├── hobbies.html      # Hobbies page
+├── skills.html       # Skills page
+├── gallery.html      # Gallery page
+├── contact.html      # Contact page
 ├── css/
-│ └── style.css # External CSS stylesheet
+│   └── style.css     # External CSS stylesheet
 ├── images/
-│ ├── image1.jfif
-│ ├── image2.jfif
-│ ├── image3.jfif
-│ ├── image4.jfif
-└── README.md # Project description
+│   ├── image1.jfif
+│   ├── image2.jfif
+│   ├── image3.jfif
+│   └── image4.jfif
+└── README.md         # Project description
 
 ---
 
@@ -55,9 +56,7 @@ portfolio/
 ---
 
 ## Author
-- **Name:** Misbah Shaheen  
-- **Registration No:** 461898  
-- **Section:** BSDS-1A  
+- **Name:** Misbah Shaheen    
 - **Course:** CS313 - Web Engineering (Fall 2025)  
 
 ---
