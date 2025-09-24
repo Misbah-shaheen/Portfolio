@@ -22,6 +22,7 @@ portfolio/
 │   └── image4.jfif
 └── README.md         # Project description
 
+plaintext```
 ---
 
 ## Features
